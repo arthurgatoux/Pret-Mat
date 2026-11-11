@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Dépendances
+vendor/
+
+# Sauvegardes SQL (le schéma sql/schema.sql reste versionné)
+backups/
+*.dump
+
+# Éditeurs et système
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# PHPUnit
+.phpunit.result.cache
