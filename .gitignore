@@ -16,3 +16,6 @@ Thumbs.db
 
 # PHPUnit
 .phpunit.result.cache
+
+# Autres
+acces.md
